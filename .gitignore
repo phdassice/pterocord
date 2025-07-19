@@ -4,9 +4,9 @@ __pycache__/
 *.pyo
 *.pyd
 *.env
-.env
-venv/
 env/
+venv/
+
 # VSCode
 .vscode/
 # macOS
@@ -16,7 +16,7 @@ env/
 *.log
 
 # Environment/Config
-config.json
+config/config.json
 
 # Others
 .idea/
